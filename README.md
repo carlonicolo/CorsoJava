@@ -1,1 +1,4 @@
-# CorsoJava
+# Corso Java
+
+- Fundamentals
+- Advanced
